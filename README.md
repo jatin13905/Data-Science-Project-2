@@ -21,7 +21,3 @@ Ask a home buyer to describe their dream house, and they probably won't begin wi
 7. Complete the predictive model by fitting different regression algorithms, using weighted mean strategy.
 8. Try different weight for each algorithm, different algorithms, different algorithm's parameters values.
 
-### Project Structure
-- In src directoy, we can find a folder for each effective commit, with the submission file and the obtained ranking.
-- In Data directory, you can find the train and test data sets.
-
